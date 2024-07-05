@@ -11,3 +11,4 @@ ubuntu:20.04
 ubuntu:22.04
 mongo:5.0
 redis:6.2
+v8040/sharelatex-texlive-full
