@@ -12,3 +12,4 @@ ubuntu:22.04
 mongo:5.0
 redis:6.2
 v8040/sharelatex-texlive-full
+python:3.9.19-slim
