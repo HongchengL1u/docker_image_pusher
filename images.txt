@@ -13,4 +13,4 @@
 # redis:6.2
 # v8040/sharelatex-texlive-full
 # python:3.9.19-slim
-floryn90/hugo
+floryn90/hugo:ext-alpine
