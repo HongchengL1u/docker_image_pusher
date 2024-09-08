@@ -13,4 +13,5 @@
 # redis:6.2
 # v8040/sharelatex-texlive-full
 # python:3.9.19-slim
-hunterhug/algorithm:docsify
+# hunterhug/algorithm:docsify
+pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
