@@ -14,4 +14,5 @@
 # v8040/sharelatex-texlive-full
 # python:3.9.19-slim
 # hunterhug/algorithm:docsify
-pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
+# pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
+--platform=linux/arm64 ubuntu:20.04
